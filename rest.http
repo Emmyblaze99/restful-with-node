@@ -6,7 +6,7 @@ POST http://localhost:3000/test/004190
 ###
 POST http://localhost:3000/test/?name=iphone 16  Pro&price=999
 ###
-POST http://localhost:3000/test
+POST http://localhost:3000/products
 Content-Type: application/json
 
 {
